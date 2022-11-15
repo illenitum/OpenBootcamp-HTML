@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    color:royalblue;
+}
+
+.img {
+    width: 300px;
+}
+
+.galery {
+    display:flex;
+    flex-wrap: wrap;
+}
